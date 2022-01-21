@@ -36,6 +36,7 @@ Daily Spent on Site per Age group:
 ![kde](./kde.png)
 
 Daily Spent on Site per Daily Internet Usage:
+
 ![dailyspentsite_dailyinternetusage](./dailyspentsite_dailyinternetusage.png)
 
 ## Training and Testing Data
