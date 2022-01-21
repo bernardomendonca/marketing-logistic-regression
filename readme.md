@@ -24,12 +24,15 @@ I'm using pandas to read the dataset as a dataframe.
 I'm using seaborn to conduct my exploratory data analysis.
 
 Histogram of users who clicked on Ad based on their age:
+
 ![hist_age_clickedOnAd](./hist_age_clickedOnAd.png)
 
 I'll also take a look at Area Income versus Age of the users:
+
 ![areaIncome_Age_jointplot](./areaIncome_Age_jointplot.png)
 
 Daily Spent on Site per Age group:
+
 ![kde](./kde.png)
 
 Daily Spent on Site per Daily Internet Usage:
@@ -53,6 +56,7 @@ I've used the in-built predict() method from SciKitLearn to run the predictions.
 ## Evaluating the Model
 
 In order to evaluate the model, I've calculated the following model erros:
+
 ![report](./report.png)
 
 Which show an accuracy of about 91%
